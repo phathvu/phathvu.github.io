@@ -1,5 +1,10 @@
-source "https://rubygems.org"
+# gem 'jekyll-sitemap'
+source 'https://rubygems.org'
 
-gem "jekyll", "~> 3.1"
-gem "jekyll-sitemap"
-gem "pygments.rb"
+gem 'jekyll'
+gem 'jekyll-paginate'
+gem 'jekyll-sitemap'
+# gems: [jekyll-paginate]
+# group :jekyll_plugins do
+  # gem 'algoliasearch-jekyll', '~> 0.8.0'
+# end
