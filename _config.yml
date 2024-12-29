@@ -4,8 +4,8 @@ description: >- # site description
   Blogs from senior software engineer with more than 10 years hands-on experience
 lang: en-US # default lang
 timezone: Asia/Ho_Chi_Minh # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+#image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+repo: https://github.com/phathvu/ # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
@@ -14,15 +14,15 @@ author:
   bio: >- # tell to the world
     Welcome to my tech blog! Here, I share insights and experiences from my journey as a software engineer and squad leader. From coding tips to building scalable systems, my goal is to inspire and support others in navigating the world of technology. Let’s explore and grow together!
     meet Phat at <a href="https://www.linkedin.com/in/phatvu-dng/" target="_blank" rel="noopener">LinkedIn</a>.
-  username: username # general username
-  github: github_username # github username
+  username: phatvu # general username
+  github: phathvu # github username
   twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+  facebook: vuhongphat # facebook username
+  email: vuhongphat@gmail.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "http://phat.mobi" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
