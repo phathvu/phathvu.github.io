@@ -23,7 +23,7 @@ author:
 
 # URL settings
 url: "http://phat.mobi" #
-baseurl:
+baseurl: "http://phat.mobi"
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
