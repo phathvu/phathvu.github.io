@@ -19,14 +19,14 @@ This trip was more than just a professional engagement; it was a chance to learn
 
 
 <figure>
-<img src="/onsite-trip-ch/pic1.jpeg" alt="Bern">
+<img src="https://raw.githubusercontent.com/phathvu/phathvu.github.io/refs/heads/main/_posts/onsite-trip-ch/pic1.jpeg" alt="Bern">
 <figcaption>A beautiful city</figcaption>
 </figure>
 <figure>
-<img src="/onsite-trip-ch/pic2.jpeg" alt="Bern">
+<img src="https://raw.githubusercontent.com/phathvu/phathvu.github.io/refs/heads/main/_posts/onsite-trip-ch/pic2.jpeg" alt="Bern">
 <figcaption>At the Mobiliar office</figcaption>
 </figure>
 <figure>
-<img src="/onsite-trip-ch/pic3.jpeg" alt="Bern">
+<img src="https://raw.githubusercontent.com/phathvu/phathvu.github.io/refs/heads/main/_posts/onsite-trip-ch/pic3.jpeg" alt="Bern">
 <figcaption>in Bern</figcaption>
 </figure>
