@@ -19,18 +19,14 @@ This trip was more than just a professional engagement; it was a chance to learn
 
 
 <figure>
-<img src="/welcome/pic1.jpeg" alt="Bern">
+<img src="/onsite-trip-ch/pic1.jpeg" alt="Bern">
 <figcaption>A beautiful city</figcaption>
 </figure>
 <figure>
-<img src="/welcome/pic2.jpeg" alt="Bern">
+<img src="/onsite-trip-ch/pic2.jpeg" alt="Bern">
 <figcaption>At the Mobiliar office</figcaption>
 </figure>
 <figure>
-<img src="/welcome/pic3.jpeg" alt="Bern">
+<img src="/onsite-trip-ch/pic3.jpeg" alt="Bern">
 <figcaption>in Bern</figcaption>
-</figure>
-<figure>
-<img src="/welcome/avatar.jpg" alt="Bern">
-<figcaption>A beautiful city</figcaption>
 </figure>
